@@ -42,9 +42,9 @@
 
  <configuration>
 
-  <destFile>$D:\jenkinssss\workspace\CIjob/target/coverage-reports/jacoco-unit.exec</destFile>
+  <destFile>D:\jenkinssss\workspace\CIjob/target/coverage-reports/jacoco-unit.exec</destFile>
 
-  <dataFile>$D:\jenkinssss\workspace\CIjob/target/coverage-reports/jacoco-unit.exec</dataFile>
+  <dataFile>D:\jenkinssss\workspace\CIjob/target/coverage-reports/jacoco-unit.exec</dataFile>
 
  </configuration>
 
